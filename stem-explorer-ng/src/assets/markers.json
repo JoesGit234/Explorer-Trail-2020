@@ -1,0 +1,26 @@
+{
+  "markers": [
+    {
+      "title": "Basestation",
+      "position": {
+        "lat": -37.686619,
+        "lng": 176.167051
+      },
+      "label": {
+        "color": "red",
+        "text": "Basestation"
+      }
+    },
+    {
+      "title": "Cucumber",
+      "position": {
+        "lat": -37.6839179,
+        "lng": 176.1673064
+      },
+      "label": {
+        "color": "red",
+        "text": "Cucumber"
+      }
+    }
+  ]
+}
