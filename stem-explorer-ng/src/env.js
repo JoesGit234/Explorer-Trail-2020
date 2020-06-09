@@ -13,5 +13,6 @@
 })(this, function() {
   return {
     API_ENDPOINT: 'http://localhost:5000/api',
+    AUTH_API: 'AIzaSyAdlcKOJpmnJlm1XAJhhhsAU2ElSJjkyYM'
   };
 });
